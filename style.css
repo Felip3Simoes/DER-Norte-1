@@ -6,6 +6,7 @@ body{
     background-color:rgba(139, 32, 246, 0.164);
     color: rgb(0, 0, 0);
     font-size: 24px;
+    align-items: ;
 }
 .cabeçalho{
     background-color: #363062;
@@ -30,7 +31,7 @@ body{
 }
 .body-de{
     width: 10%;
-    margin: 0 1800px ; 
+    margin: 0 1600px ; 
 }
 .projeto-div{
     background-color: blanchedalmond;
